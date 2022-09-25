@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/.cxx/Debug/411i5t2z/x86",
+  "command": "\"/Users/root1/Desktop/configure/android configure/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++\" --target=i686-none-linux-android16 --gcc-toolchain=\"/Users/root1/Desktop/configure/android configure/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64\" --sysroot=\"/Users/root1/Desktop/configure/android configure/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\" -Dexoplayer2_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/exoplayer2.dir/native-lib.cpp.o -c \"/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/src/main/cpp/native-lib.cpp\"",
+  "file": "/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/src/main/cpp/native-lib.cpp"
+}
+]

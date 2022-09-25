@@ -1,0 +1,17 @@
+# ninja log v5
+0	764	1659426734818073704	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+765	891	1659426734950019741	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+2	1097	1659427540883903732	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+1098	1256	1659427541050056376	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+3	1228	1659437803429637602	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+1228	1417	1659437803626315044	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+1	1709	1659437888868494243	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+1709	1884	1659437889049217086	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+2	699	1659437978363083781	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+700	835	1659437978501931102	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+1	632	1659438398252132279	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+632	750	1659438398375960432	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+1	609	1659438452952367698	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+609	727	1659438453072804728	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da
+1	1099	1661329249568511567	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ec82c3781ad41a06
+1099	1247	1661329249727133873	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/arm64-v8a/libexoplayer2.so	b13ec21033b8a5da

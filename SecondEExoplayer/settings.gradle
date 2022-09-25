@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+gradle.ext.exoplayerModulePrefix = 'exoplayer-'
+///Users/root1/Documents/code/android code
+apply from: file("/Users/root1/Documents/code/android code/ExoPlayer-release-v2/core_settings.gradle")
+rootProject.name = "SecondEExoplayer"
+include ':app'

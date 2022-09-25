@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/.cxx/Debug/411i5t2z/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,5 @@
+# ninja log v5
+2	3508	1660121100318942685	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ddc1ab14df088e02
+3518	3996	1660121100766302403	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/x86/libexoplayer2.so	827288de28c47a67
+2	778	1662374909652794312	CMakeFiles/exoplayer2.dir/native-lib.cpp.o	ddc1ab14df088e02
+778	1055	1662374909919246926	/Users/root1/Documents/code/android code/ExoPlayer-release-v2/library/core/build/intermediates/cxx/Debug/411i5t2z/obj/x86/libexoplayer2.so	827288de28c47a67
